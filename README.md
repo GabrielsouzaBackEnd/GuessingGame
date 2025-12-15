@@ -1,36 +1,54 @@
-# 🎮 Jogo do Número Secreto
+🎮 Secret Number Game
 
-Projeto desenvolvido para praticar lógica de programação e manipulação do DOM com JavaScript. O jogador deve adivinhar o número secreto aleatório gerado pelo sistema, recebendo dicas se o palpite está acima ou abaixo do valor correto. O jogo inclui recursos visuais e de acessibilidade com feedback por voz.
+Project developed to practice programming logic and DOM manipulation using JavaScript. The player must guess a randomly generated secret number, receiving hints whether the guess is higher or lower than the correct value. The game includes visual features and accessibility support with voice feedback.
 
-## 💡 Objetivo do Projeto
-Aplicar fundamentos de programação, como:
-- Condicionais (`if/else`)
-- Laços de repetição
-- Manipulação do DOM
-- Funções
-- Geração de números aleatórios
-- Lógica de exclusão de repetição
-- Acessibilidade com biblioteca de voz (`responsivevoice.js`)
+💡 Project Objective
 
-## 🛠 Tecnologias Utilizadas
-- HTML5  
-- CSS3  
-- JavaScript  
-- Biblioteca: [ResponsiveVoice.js](https://responsivevoice.org/)
+Apply core programming fundamentals, such as:
 
-## 📦 Funcionalidades
-- Geração aleatória de número secreto de 1 a 10
-- Dicas ao jogador (maior/menor)
-- Histórico de números já sorteados para evitar repetições
-- Contador de tentativas
-- Botão de reinício de jogo
-- Feedback por voz para acessibilidade
+Conditionals (if/else)
 
-## 📱 Responsividade
-O layout se adapta a diferentes tamanhos de tela, com ajuste de fonte e elementos visuais para melhor usabilidade em dispositivos menores.
+Loops
 
-## 👨‍💻 Autor
-Gabriel Souza – Cursando Análise e Desenvolvimento de Sistemas  
-Este projeto faz parte do meu aprendizado prático em JavaScript e front-end.
+DOM manipulation
 
----
+Functions
+
+Random number generation
+
+Logic to prevent number repetition
+
+Accessibility using a voice library (responsivevoice.js)
+
+🛠 Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Library: ResponsiveVoice.js
+
+📦 Features
+
+Random secret number generation from 1 to 10
+
+Player hints (higher/lower)
+
+History of previously generated numbers to avoid repetition
+
+Attempt counter
+
+Game restart button
+
+Voice feedback for accessibility
+
+📱 Responsiveness
+
+The layout adapts to different screen sizes, with font and visual element adjustments to improve usability on smaller devices.
+
+👨‍💻 Author
+
+Gabriel Souza – Systems Analysis and Development Student
+This project is part of my practical learning journey in JavaScript and front-end development.
